@@ -3,7 +3,7 @@
 Este repositório é usado para redirecionar o domínio **www.danielgrajew.com.br**  
 para o site principal hospedado em:
 
-👉 [https://daniel-grajew.webnode.page/](https://daniel-grajew.webnode.page/)
+👉 [https://daniel-grajew.webnode.page/](https://daniel-grajew.webnode.page/](https://danielgrajew.framer.website/daniel-grajew))
 
 O redirecionamento é feito automaticamente por meio de um arquivo `index.html`  
 configurado no **GitHub Pages**.
